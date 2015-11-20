@@ -1,0 +1,28 @@
+name: EB
+favicon: null
+layout_spectrum: 0.09516745153814554
+typography_spectrum: 0.10370778827928007
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.4952009452972561
+  lightness: 0.31003915634937584
+  saturation: 0.05528055224567652
+  rhythmicContrast: 0.080272814957425
+purpose: []
