@@ -2,6 +2,7 @@ name: EB
 favicon: null
 layout_spectrum: 0.82779
 typography_spectrum: 0.10370778827928007
+title: EB
 cta:
   domain: null
   bucket: null
