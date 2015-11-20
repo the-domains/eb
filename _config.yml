@@ -1,6 +1,6 @@
 name: EB
 favicon: null
-layout_spectrum: 0.09516745153814554
+layout_spectrum: 0.82779
 typography_spectrum: 0.10370778827928007
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.4952009452972561
+  brandStrength: 0.9375
   lightness: 0.31003915634937584
   saturation: 0.05528055224567652
   rhythmicContrast: 0.080272814957425
